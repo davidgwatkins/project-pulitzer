@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+    "python.analysis.extraPaths": ["bookclub"]
+}
